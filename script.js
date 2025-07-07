@@ -1,2 +1,1 @@
-alert("Hello")
-console.log("er")
+console.log("HELLO HEAVEN!!")
